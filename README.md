@@ -4,7 +4,7 @@
   <header style="display:flex; align-items:center; gap:16px; margin-bottom:14px;">
     <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/avatar.png" alt="avatar" style="width:84px; height:84px; border-radius:12px; object-fit:cover; border:1px solid #e6eef8;">
     <div>
-      <h1 style="margin:0; font-size:20px;">MAY）</h1>
+      <h1 style="margin:0; font-size:20px;">MAY</h1>
       <p style="margin:4px 0 0; color:#33658a;">日本に留学中の専門学生 ✈️ ・ 現在は IT を勉強中</p>
     </div>
   </header>
